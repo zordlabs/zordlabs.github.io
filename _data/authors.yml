@@ -1,23 +1,23 @@
-Caleb Curry:
-    name: 'Caleb Curry'
+Zord Labs:
+    name: 'Zord Labs'
     bio: 'Through continually writing code and teaching software, I’ve built strong skills in software and entrepreneurship. With every role, I bring more than the ability to write code. I bring the ability to turn software into a valuable tool that anyone can use and understand.'
     avatar: '/assets/images/myface.jpeg'
     links:
         - label: 'Email'
           icon: 'fas fa-fw fa-envelope-square'
-          url: 'mailto:caleb@calebcurry.com'
+          url: 'mailto:zordlabs@gmail.com'
         - label: 'GitHub'
           icon: 'fas fa-fw fa-link'
-          url: 'https://github.com/calebcurry'
+          url: 'https://github.com/zordlabs'
         - label: 'YouTube'
           icon: 'fas fa-fw fa-link'
-          url: 'https://www.youtube.com/c/CalebTheVideoMaker2'
+          url: 'https://www.youtube.com/c/zordlabs'
         - label: 'LinkedIn'
           icon: 'fas fa-fw fa-link'
-          url: 'https://www.linkedin.com/in/calebcurry/'
+          url: 'https://www.linkedin.com/in/zordlabs/'
         - label: 'Twitter'
           icon: 'fas fa-fw fa-link'
-          url: 'https://twitter.com/CalebCurry'
+          url: 'https://twitter.com/Zordlabs'
 
         #- label: "Website"
         #  icon: "fas fa-fw fa-link"
